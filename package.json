@@ -1,0 +1,14 @@
+{
+  "name": "html-validation-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "report": "node ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html-validator": "^5.1.17"
+  }
+}
